@@ -36,8 +36,8 @@ namespace EmployeeTest
                     }
                 }
             }
-            public void GetYearlySalary(){
-                System.Console.WriteLine($"{firstName} {lastName} your Yearly Salary : {monthlySalary * 12:C}");
+            public decimal GetYearlySalary(){
+               return MonthlySalary *12;
             }
             public decimal TenPercentRaise(){
                 decimal raise = 0.1M * monthlySalary;
