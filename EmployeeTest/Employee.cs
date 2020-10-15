@@ -6,9 +6,9 @@ namespace EmployeeTest
         string lastName;
         decimal monthlySalary;
         public Employee(string firstName, string lastName, decimal monthlySalary){
-            this.firstName = firstName;
-            this.lastName = lastName;
-            this.monthlySalary = monthlySalary;
+            FirstName = firstName;
+            LastName = lastName;
+            MonthlySalary = monthlySalary;
         }
             public string LastName{
                 get{
