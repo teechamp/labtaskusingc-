@@ -1,0 +1,11 @@
+C:\codebitsacademy\C-Sharp\LabTask\EmployeeTest\obj\Debug\netcoreapp3.1\EmployeeTest.csprojAssemblyReference.cache
+C:\codebitsacademy\C-Sharp\LabTask\EmployeeTest\obj\Debug\netcoreapp3.1\EmployeeTest.AssemblyInfoInputs.cache
+C:\codebitsacademy\C-Sharp\LabTask\EmployeeTest\obj\Debug\netcoreapp3.1\EmployeeTest.AssemblyInfo.cs
+C:\codebitsacademy\C-Sharp\LabTask\EmployeeTest\bin\Debug\netcoreapp3.1\EmployeeTest.exe
+C:\codebitsacademy\C-Sharp\LabTask\EmployeeTest\bin\Debug\netcoreapp3.1\EmployeeTest.deps.json
+C:\codebitsacademy\C-Sharp\LabTask\EmployeeTest\bin\Debug\netcoreapp3.1\EmployeeTest.runtimeconfig.json
+C:\codebitsacademy\C-Sharp\LabTask\EmployeeTest\bin\Debug\netcoreapp3.1\EmployeeTest.runtimeconfig.dev.json
+C:\codebitsacademy\C-Sharp\LabTask\EmployeeTest\bin\Debug\netcoreapp3.1\EmployeeTest.dll
+C:\codebitsacademy\C-Sharp\LabTask\EmployeeTest\bin\Debug\netcoreapp3.1\EmployeeTest.pdb
+C:\codebitsacademy\C-Sharp\LabTask\EmployeeTest\obj\Debug\netcoreapp3.1\EmployeeTest.dll
+C:\codebitsacademy\C-Sharp\LabTask\EmployeeTest\obj\Debug\netcoreapp3.1\EmployeeTest.pdb

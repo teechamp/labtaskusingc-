@@ -1,0 +1,11 @@
+C:\codebitsacademy\C-Sharp\LabTask\Mydate\bin\Debug\netcoreapp3.1\Mydate.exe
+C:\codebitsacademy\C-Sharp\LabTask\Mydate\bin\Debug\netcoreapp3.1\Mydate.deps.json
+C:\codebitsacademy\C-Sharp\LabTask\Mydate\bin\Debug\netcoreapp3.1\Mydate.runtimeconfig.json
+C:\codebitsacademy\C-Sharp\LabTask\Mydate\bin\Debug\netcoreapp3.1\Mydate.runtimeconfig.dev.json
+C:\codebitsacademy\C-Sharp\LabTask\Mydate\bin\Debug\netcoreapp3.1\Mydate.dll
+C:\codebitsacademy\C-Sharp\LabTask\Mydate\bin\Debug\netcoreapp3.1\Mydate.pdb
+C:\codebitsacademy\C-Sharp\LabTask\Mydate\obj\Debug\netcoreapp3.1\Mydate.csprojAssemblyReference.cache
+C:\codebitsacademy\C-Sharp\LabTask\Mydate\obj\Debug\netcoreapp3.1\Mydate.AssemblyInfoInputs.cache
+C:\codebitsacademy\C-Sharp\LabTask\Mydate\obj\Debug\netcoreapp3.1\Mydate.AssemblyInfo.cs
+C:\codebitsacademy\C-Sharp\LabTask\Mydate\obj\Debug\netcoreapp3.1\Mydate.dll
+C:\codebitsacademy\C-Sharp\LabTask\Mydate\obj\Debug\netcoreapp3.1\Mydate.pdb
