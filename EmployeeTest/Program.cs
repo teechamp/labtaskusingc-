@@ -5,8 +5,9 @@ namespace EmployeeTest
     {
         static void Main(string[] args)
         {
-            Employee employee1 = new Employee("James", "Stuart", 50000M);
-            Employee employee2 = new Employee("Daniel", "Campbell", 100000M);
+            Employee employee1 = new Employee("temidayo", "samuel", 3000M);
+            Employee employee2 = new Employee("samuel", "temidayo", 50000M);
+            
             employee1.GetYearlySalary();
             employee2.GetYearlySalary();
 
